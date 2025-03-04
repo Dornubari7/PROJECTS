@@ -45,7 +45,8 @@ This project explores and analyzes the "layoffs" dataset, providing insights int
 - Build a dynamic dashboard to monitor real-time layoff data.
 
 ## Contact
-For questions or suggestions, feel free to reach out!
+EMAIL - Neekaigbaradornubari@gmail.com
+PHONE NUMBER - 08137689674
 
 ---
 
